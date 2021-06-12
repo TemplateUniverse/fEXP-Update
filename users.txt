@@ -8,7 +8,6 @@ Itachi_Lowely
 Aikko_Pai
 Reinhman_Gastby
 Gilbert_Okami
-William_Gatsby
 Robert_Kirsby
 Reventor_Lowely
 Gabe_Dagama
@@ -19,3 +18,4 @@ Desire_Messier
 Sirius_Rainford
 Riko_Ross
 Template_Universe
+Rigas_Houston
