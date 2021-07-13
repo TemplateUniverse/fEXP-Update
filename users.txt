@@ -1,5 +1,4 @@
 Hayden_Murphy
-Noah_Issei
 Jason_Schreier
 Chesley_Ortega
 Reventor_Lowely
@@ -7,3 +6,4 @@ William_Recense
 Robert_Kirsby
 Louis_Washington
 Template_Universe
+Jose_Murphy
